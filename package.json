@@ -1,0 +1,13 @@
+{
+  "name": "pepperbot",
+  "version": "1.0.0",
+  "description": "a bot that asks pepper questions",
+  "main": "pepperbot.js",
+  "repository": "https://gitgud.io/totsuya/pepperbot.git",
+  "author": "totsuya <supertatortots@gmail.com>",
+  "license": "WTFP",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.2.0"
+  }
+}
